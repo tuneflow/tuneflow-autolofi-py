@@ -1,0 +1,4 @@
+tuneflow-devkit-py>=0.5.4
+librosa>=0.10.0
+soundfile>=0.12.1
+chorder-py>=1.0.1

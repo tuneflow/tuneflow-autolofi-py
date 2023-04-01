@@ -1,0 +1,36 @@
+{
+    "plugins": [
+      {
+        "providerId": "andantei",
+        "providerDisplayName": {
+          "zh": "Andantei行板",
+          "en": "Andantei"
+        },
+        "pluginId": "auto-lofi",
+        "pluginDisplayName": {
+            "zh": "快速生成 Lo-fi",
+            "en": "Quick Lo-fi Hip-hop Song Generator"
+        },
+        "pluginDescription": {
+            "zh": "自动生成 Lo-fi Hip-hop 音乐",
+        "en": "Generate Lofi Hip Hop music."
+        },
+        "version": "1.0.0",
+        "minRequiredDesktopVersion": "1.9.1",
+        "options": {
+          "allowReset": false,
+          "allowManualApplyAdjust": true
+        },
+        "triggers": [
+          "song"
+        ],
+        "supportedPlatforms": ["desktop"],
+        "categories": ["generate"],
+        "icon": {
+          "0.5x": "https://s.tuneflow.com/images/plugins/icons/auto_lofi/auto_lofi@0.5x.png",
+          "1x": "https://s.tuneflow.com/images/plugins/icons/auto_lofi/auto_lofi@1x.png",
+          "2x": "https://s.tuneflow.com/images/plugins/icons/auto_lofi/auto_lofi@2x.png"
+        }
+      }
+    ]
+}
