@@ -31,8 +31,8 @@ class QuickLofi(TuneflowPlugin):
         return {
             "mood": {
                 "displayName": {
-                    "zh": '音乐情绪（消极到积极）',
-                    "en": 'Music Mood (Negative to Positive)',
+                    "zh": '情绪',
+                    "en": 'Mood',
                 },
                 "defaultValue": 5,
                 "widget": {
@@ -56,8 +56,8 @@ class QuickLofi(TuneflowPlugin):
             },
             "duration": {
                 "displayName": {
-                    "zh": '预计时长（秒）',
-                    "en": 'Approx Duration (Seconds)',
+                    "zh": '时长（秒）',
+                    "en": 'Duration (Seconds)',
                 },
                 "defaultValue": 60,
                 "widget": {
