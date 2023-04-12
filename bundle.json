@@ -8,12 +8,12 @@
         },
         "pluginId": "auto-lofi",
         "pluginDisplayName": {
-            "zh": "快速生成 Lo-fi",
-            "en": "Quick Lo-fi Hip-hop Song Generator"
+            "zh": "Lo-fi Hip-hop 生成器",
+            "en": "Lo-fi Hip-hop Generator"
         },
         "pluginDescription": {
-            "zh": "自动生成 Lo-fi Hip-hop 音乐",
-        "en": "Generate Lofi Hip Hop music."
+            "zh": "根据选定情绪和时长自动生成 Lo-fi Hip-hop 音乐",
+        "en": "Generate Lofi Hip Hop music based on the selected mood and duration."
         },
         "version": "1.0.0",
         "minRequiredDesktopVersion": "1.9.1",
